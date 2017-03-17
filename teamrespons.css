@@ -1,0 +1,175 @@
+@media (max-width:1500px) {
+	/* Main */
+	#dtx-header-1-logo img, #dtx-header-1-inner ul, #dtx-header-1-contact {
+		padding:0 125px 0 15%;
+	}
+	.dtx-menu-line {
+		width:100px;
+	}
+	titel1 {
+		font-size:45px;
+	}
+	titel2 {
+		font-size:32px;
+	}
+	scrolltitel {
+		font-size:18px;
+	}
+	/* Page */
+	#dtx-t2-panel-text, #dtx-t4-panel-text {
+		padding:0 15%;
+	}
+}
+@media (max-width:1260px) {
+	/* Main */
+	#dtx-header-1-logo img, #dtx-header-1-inner ul, #dtx-header-1-contact {
+		padding:0 85px 0 15%;
+	}
+	.dtx-menu-line {
+		width:60px;
+		top:13px;
+		height:10px;
+	}
+	#dtx-header-1-inner ul li a {
+		font-size:22px;
+	}
+	titel1 {
+		font-size:38px;
+	}
+	titel2 {
+		font-size:28px;
+	}
+	scrolltitel {
+		font-size:17px;
+	}
+	h1 {
+		font-size:28px;
+	}
+	h2 {
+		font-size:24px;
+	}
+	h3 {
+		font-size:20px;
+	}
+	h4 {
+		font-size:18px;
+	}
+	body {
+		font-size:15px;
+	}
+}
+@media (max-width:1024px) { 
+	/* Main */
+	#dtx-hamburger {
+		top:16px;
+		left:28px;
+	}
+	/* Page */
+	#dtx-wrapper {
+		overflow:inherit;
+	}
+	.dtx-teamsection {
+		position:relative;
+	}
+	#dtx-t1-scroll {
+		display:none;
+	}
+	#dtx-teamsection2 {
+		height:auto;
+	}
+	#dtx-t2-textoverlay, #dtx-t2-logo {
+		display:none;
+	}
+	#dtx-t2-panel {
+		position:relative;
+		top:0;
+		left:0;
+		width:100%;
+		height:100%;
+		background-color:rgba(0,0,255,1);
+	}
+	#dtx-t2-panel-text {
+		position:relative;
+		top:0;
+		left:0;
+		height:100%;
+		opacity:1;
+		padding:17.5%;
+	}
+	#dtx-teamsection3 {
+		left:0;
+	}
+	#dtx-teamsection4 {
+		height:auto;
+	}
+	#dtx-t4-panel {
+		position:relative;
+		top:0;
+		left:0;
+		width:100%;
+		height:100%;
+		background-color:rgba(0,0,255,1);
+	}
+	#dtx-t4-panel-text {
+		position:relative;
+		top:0;
+		left:0;
+		height:100%;
+		opacity:1;
+		padding:17.5%;
+	}
+}
+@media (max-width:860px) {  
+	/* Main */
+	#dtx-header-1 {
+		width:100%;
+	}
+	#dtx-header-1-logo img, #dtx-header-1-inner ul, #dtx-header-1-contact {
+		padding:0 15%;
+	}
+	#dtx-header-1-inner ul li {
+		text-align:center;
+	}
+	#dtx-header-1-inner ul li a {
+		font-size:18px;
+	}
+	.dtx-menu-line {
+		display:none;
+	}
+	#dtx-header-1-inner ul li a:hover, #dtx-header-1-inner ul li a.active {
+		text-decoration:underline;
+	}
+	#dtx-header-1-amp {
+		display:none;
+	}
+	#dtx-header-1-contact {
+		text-align:center;
+	}
+	#dtx-header-1-login {
+		right:0;
+		left:12px;
+		padding-left:0px;
+		padding-right:12px;
+		bottom:6px;
+		line-height:1.15em;
+	}
+	#dtx-header-2 {
+		display:none;
+	}
+}
+@media (max-width:744px) { 
+	/* Main */
+	#dtx-hamburger {
+		top:12px;
+		left:18px;
+	}
+	titel1 {
+		font-size:32px;
+	}
+	#dtx-header-1-inner ul {
+		margin-bottom:0%;
+	}
+	#dtx-header-1-contact {
+		display:none;
+	}
+}
